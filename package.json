@@ -1,0 +1,15 @@
+{
+  "name": "zara-parfums-inspirations-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-zara.mjs",
+    "validate": "node scripts/validate-data.mjs",
+    "update": "npm run scrape && npm run validate",
+    "serve": "npx serve ."
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}

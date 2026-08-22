@@ -1,0 +1,104 @@
+[
+  {
+    "house": "Zara",
+    "product": "Energetically New York",
+    "collaborator": "Jo Malone CBE",
+    "collaboratorBrand": "Jo Loves",
+    "type": "Collaboration officielle",
+    "status": "Vérifiée Zara",
+    "family": "Boisé épicé",
+    "officialNotes": [
+      "Cardamome",
+      "Jasmin",
+      "Bois de santal"
+    ],
+    "source": "https://www.zara.com/fr/fr/energetically-new-york-edp-100-ml--3-4-fl-oz--p20110710.html",
+    "verifiedAt": "2026-08-22"
+  },
+  {
+    "house": "Zara",
+    "product": "Fashionably London",
+    "collaborator": "Jo Malone CBE",
+    "collaboratorBrand": "Jo Loves",
+    "type": "Collaboration officielle",
+    "status": "Vérifiée Zara",
+    "family": "Floral musqué",
+    "officialNotes": [
+      "Bergamote",
+      "Rose",
+      "Musc"
+    ],
+    "source": "https://www.zara.com/fr/fr/fashionably-london-limited-edition-edp-60ml--2-3-fl-oz---p20110739.html",
+    "verifiedAt": "2026-08-22"
+  },
+  {
+    "house": "Zara",
+    "product": "Elegantly Tokyo",
+    "collaborator": "Jo Malone CBE",
+    "collaboratorBrand": "Jo Loves",
+    "type": "Collaboration officielle",
+    "status": "Vérifiée Zara",
+    "family": "Floral",
+    "officialNotes": [
+      "Fleurs blanches",
+      "Jasmin",
+      "Akigalawood"
+    ],
+    "source": "https://www.zara.com/fr/fr/elegantly-tokyo-edition-limitee-edp-60-ml--2-3-fl-oz---p20110740.html",
+    "verifiedAt": "2026-08-22"
+  },
+  {
+    "house": "Zara",
+    "product": "Pétale d'Ambre",
+    "collaborator": "Jo Malone CBE",
+    "collaboratorBrand": "Jo Loves",
+    "type": "Collaboration officielle",
+    "status": "Vérifiée Zara",
+    "family": "Oriental floral",
+    "officialNotes": [
+      "Bergamote",
+      "Citron",
+      "Ambre",
+      "Lavande",
+      "Muguet",
+      "Noix de muscade",
+      "Bois doux",
+      "Patchouli"
+    ],
+    "source": "https://www.zara.com/fr/fr/petale-d-ambre-parfum-100-ml-p20110948.html",
+    "verifiedAt": "2026-08-22"
+  },
+  {
+    "house": "Zara",
+    "product": "Parfait d'Orchidée",
+    "collaborator": "Jo Malone CBE",
+    "collaboratorBrand": "Jo Loves",
+    "type": "Collaboration officielle",
+    "status": "Vérifiée Zara",
+    "family": "Ambré épicé",
+    "officialNotes": [
+      "Encens",
+      "Benjoin",
+      "Vanille"
+    ],
+    "source": "https://www.zara.com/fr/fr/parfait-d-orchidee-parfum-100-ml-p20110949.html",
+    "verifiedAt": "2026-08-22"
+  },
+  {
+    "house": "Zara",
+    "product": "Saffron & Orange Flowers",
+    "collaborator": "Jo Malone CBE",
+    "collaboratorBrand": "Jo Loves",
+    "type": "Collaboration officielle",
+    "status": "Vérifiée Zara",
+    "family": "Agrumes, floral, épicé",
+    "officialNotes": [
+      "Bergamote",
+      "Orange",
+      "Safran",
+      "Musc"
+    ],
+    "source": "https://www.zara.com/fr/fr/saffron---orange-flowers-edp-100ml--3-4-fl-oz--p20210271.html",
+    "verifiedAt": "2026-08-22"
+  }
+]
