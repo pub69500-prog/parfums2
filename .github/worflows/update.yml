@@ -2,6 +2,7 @@ name: Mise à jour Parfums
 
 on:
   workflow_dispatch:
+
   schedule:
     - cron: "23 6 * * 1"
       timezone: "Europe/Paris"
@@ -11,18 +12,9 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: parfums-pages
-  cancel-in-progress: false
-
 jobs:
-  update-and-deploy:
+  update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Récupérer le dépôt
@@ -39,56 +31,22 @@ jobs:
       - name: Installer Chromium
         run: npx playwright install --with-deps chromium
 
-      - name: Construire la base Zara + mettre à jour Lattafa
+      - name: Mettre à jour Zara et Lattafa
         run: npm run scrape
 
       - name: Valider les données
         run: npm run validate
 
-      - name: Afficher les statistiques
-        run: |
-          node - <<'NODE'
-          const fs=require("fs");
-          const d=JSON.parse(fs.readFileSync("data/products.json","utf8"));
-          console.log("Mise à jour :",d.updatedAt);
-          console.log("Zara local :",d.stats.zara);
-          console.log("Lattafa :",d.stats.lattafa);
-          console.log("Total :",d.stats.total);
-          console.log("Inspirations :",d.stats.matched);
-          NODE
-
-      - name: Commit des nouvelles données
+      - name: Sauvegarder les données
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/products.json data/history
+
           if git diff --cached --quiet; then
-            echo "Aucun changement."
+            echo "Aucune modification."
           else
-            git commit -m "chore(data): mise à jour parfums $(date -u +%F)"
+            git commit -m "Mise à jour parfums"
             git push
           fi
-
-      - name: Configurer GitHub Pages
-        uses: actions/configure-pages@v5
-
-      - name: Préparer le site
-        run: |
-          rm -rf _site
-          mkdir -p _site/data
-          cp index.html _site/
-          cp editor.html _site/
-          cp data/products.json _site/data/
-          cp data/correspondences.json _site/data/
-          cp data/collaborations.json _site/data/
-          cp data/inspirations.json _site/data/
-          cp data/zara-fragrantica.json _site/data/
-
-      - name: Créer l'artefact Pages
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: _site
-
-      - name: Déployer GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
