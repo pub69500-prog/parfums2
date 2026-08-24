@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T07:32:47.422Z",
+  "updatedAt": "2026-08-22T17:54:06.005Z",
   "stats": {
     "total": 453,
     "zara": 200,
@@ -7,7 +7,7 @@
     "men": 0,
     "women": 0,
     "unisex": 0,
-    "new": 0,
+    "new": 453,
     "disappeared": 0,
     "matched": 72,
     "highConfidence": 29,
@@ -35,7 +35,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -55,7 +55,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -75,7 +75,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -95,7 +95,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -115,7 +115,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -135,7 +135,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -155,7 +155,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -175,7 +175,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -195,7 +195,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -228,7 +228,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -261,7 +261,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -281,7 +281,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -301,7 +301,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -321,7 +321,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -341,7 +341,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -361,7 +361,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -381,7 +381,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -401,7 +401,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -421,7 +421,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -441,7 +441,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -461,7 +461,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -481,7 +481,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -501,7 +501,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -521,7 +521,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -541,7 +541,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -561,7 +561,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -581,7 +581,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -601,7 +601,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -621,7 +621,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -641,7 +641,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -661,7 +661,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -681,7 +681,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -701,7 +701,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -721,7 +721,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -741,7 +741,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -761,7 +761,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -781,7 +781,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -801,7 +801,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -821,7 +821,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -841,7 +841,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -861,7 +861,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -893,7 +893,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -941,7 +941,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -989,7 +989,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -1037,7 +1037,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1057,7 +1057,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1077,7 +1077,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1097,7 +1097,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1117,7 +1117,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1137,7 +1137,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1157,7 +1157,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1177,7 +1177,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1197,7 +1197,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1217,7 +1217,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1237,7 +1237,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "Eau de Parfum",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1257,7 +1257,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1277,7 +1277,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1297,7 +1297,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1317,7 +1317,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1337,7 +1337,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1357,7 +1357,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1377,7 +1377,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1397,7 +1397,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1417,7 +1417,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1437,7 +1437,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": {
         "collaborator": "Jo Malone CBE",
@@ -1482,7 +1482,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1502,7 +1502,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1522,7 +1522,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1542,7 +1542,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": {
         "collaborator": "Jo Malone CBE",
@@ -1580,7 +1580,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1600,7 +1600,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1620,7 +1620,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1640,7 +1640,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1660,7 +1660,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1680,7 +1680,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1700,7 +1700,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -1754,7 +1754,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1774,7 +1774,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1794,7 +1794,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1814,7 +1814,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1834,7 +1834,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1854,7 +1854,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1874,7 +1874,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1894,7 +1894,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1914,7 +1914,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1934,7 +1934,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1954,7 +1954,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1974,7 +1974,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -1994,7 +1994,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2014,7 +2014,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2034,7 +2034,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2054,7 +2054,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2074,7 +2074,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2094,7 +2094,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2114,7 +2114,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2134,7 +2134,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2154,7 +2154,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2174,7 +2174,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2194,7 +2194,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2214,7 +2214,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2234,7 +2234,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2254,7 +2254,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2274,7 +2274,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2294,7 +2294,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2314,7 +2314,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2334,7 +2334,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2354,7 +2354,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2374,7 +2374,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "Eau de Parfum",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2394,7 +2394,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2414,7 +2414,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2434,7 +2434,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2454,7 +2454,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -2503,7 +2503,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2523,7 +2523,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2543,7 +2543,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2563,7 +2563,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -2595,7 +2595,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2615,7 +2615,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2635,7 +2635,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2655,7 +2655,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2675,7 +2675,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -2725,7 +2725,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2745,7 +2745,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2765,7 +2765,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2785,7 +2785,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2805,7 +2805,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2825,7 +2825,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2845,7 +2845,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -2865,7 +2865,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -2915,7 +2915,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -2965,7 +2965,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -3015,7 +3015,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3035,7 +3035,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3055,7 +3055,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3075,7 +3075,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3095,7 +3095,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3115,7 +3115,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3135,7 +3135,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3155,7 +3155,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3175,7 +3175,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3195,7 +3195,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3215,7 +3215,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3235,7 +3235,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3255,7 +3255,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3275,7 +3275,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3295,7 +3295,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3315,7 +3315,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3335,7 +3335,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3355,7 +3355,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3375,7 +3375,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3395,7 +3395,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3415,7 +3415,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3435,7 +3435,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "Parfum",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3455,7 +3455,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3475,7 +3475,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3495,7 +3495,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3515,7 +3515,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3535,7 +3535,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3555,7 +3555,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3575,7 +3575,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3595,7 +3595,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3615,7 +3615,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3635,7 +3635,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3655,7 +3655,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3675,7 +3675,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3695,7 +3695,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3715,7 +3715,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3735,7 +3735,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3755,7 +3755,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3775,7 +3775,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3795,7 +3795,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -3827,7 +3827,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3847,7 +3847,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3867,7 +3867,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3887,7 +3887,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3907,7 +3907,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3927,7 +3927,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3947,7 +3947,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3967,7 +3967,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -3987,7 +3987,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4036,7 +4036,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4090,7 +4090,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4140,7 +4140,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4193,7 +4193,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4241,7 +4241,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4274,7 +4274,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4307,7 +4307,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4340,7 +4340,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4386,7 +4386,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4418,7 +4418,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4450,7 +4450,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4482,7 +4482,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4514,7 +4514,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4546,7 +4546,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4578,7 +4578,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4610,7 +4610,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": {
         "collaborator": "Jo Malone CBE",
@@ -4643,7 +4643,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": {
         "collaborator": "Jo Malone CBE",
@@ -4676,7 +4676,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": {
         "collaborator": "Jo Malone CBE",
@@ -4709,7 +4709,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": {
         "collaborator": "Jo Malone CBE",
@@ -4754,7 +4754,7 @@
       "lastVerifiedAt": "2026-08-22",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": {
         "collaborator": "Jo Malone CBE",
@@ -4785,7 +4785,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "80 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -4802,7 +4802,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -4819,7 +4819,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -4836,7 +4836,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -4853,7 +4853,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4884,7 +4884,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -4901,7 +4901,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -4918,7 +4918,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -4947,7 +4947,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -4964,7 +4964,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -4981,7 +4981,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "Elixir",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -4998,7 +4998,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "Elixir",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -5051,7 +5051,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5068,7 +5068,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5085,7 +5085,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5102,7 +5102,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5119,7 +5119,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5136,7 +5136,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5153,7 +5153,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5170,7 +5170,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5187,7 +5187,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5204,7 +5204,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5221,7 +5221,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5238,7 +5238,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "Elixir",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -5267,7 +5267,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5284,7 +5284,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5301,7 +5301,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5318,7 +5318,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5335,7 +5335,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5352,7 +5352,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5369,7 +5369,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5386,7 +5386,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -5417,7 +5417,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5434,7 +5434,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5451,7 +5451,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5468,7 +5468,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -5499,7 +5499,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5516,7 +5516,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5533,7 +5533,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -5562,7 +5562,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5579,7 +5579,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5596,7 +5596,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5613,7 +5613,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -5666,7 +5666,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5683,7 +5683,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5700,7 +5700,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5717,7 +5717,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5734,7 +5734,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5751,7 +5751,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5768,7 +5768,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5785,7 +5785,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5802,7 +5802,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5819,7 +5819,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -5872,7 +5872,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5889,7 +5889,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5906,7 +5906,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5923,7 +5923,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5940,7 +5940,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -5971,7 +5971,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -5988,7 +5988,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6005,7 +6005,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6022,7 +6022,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6039,7 +6039,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6056,7 +6056,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6073,7 +6073,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6090,7 +6090,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -6143,7 +6143,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6160,7 +6160,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6177,7 +6177,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6194,7 +6194,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6211,7 +6211,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6228,7 +6228,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6245,7 +6245,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6262,7 +6262,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6279,7 +6279,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6296,7 +6296,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6313,7 +6313,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6330,7 +6330,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -6359,7 +6359,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6376,7 +6376,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6393,7 +6393,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6410,7 +6410,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -6439,7 +6439,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6456,7 +6456,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6473,7 +6473,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6490,7 +6490,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -6519,7 +6519,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6536,7 +6536,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6553,7 +6553,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -6582,7 +6582,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6599,7 +6599,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6616,7 +6616,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6633,7 +6633,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6650,7 +6650,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6667,7 +6667,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6684,7 +6684,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6701,7 +6701,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6718,7 +6718,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6735,7 +6735,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6752,7 +6752,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6769,7 +6769,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -6817,7 +6817,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6834,7 +6834,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -6887,7 +6887,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6904,7 +6904,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6921,7 +6921,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6938,7 +6938,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6955,7 +6955,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6972,7 +6972,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -6989,7 +6989,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7006,7 +7006,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7023,7 +7023,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7040,7 +7040,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7057,7 +7057,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7074,7 +7074,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7091,7 +7091,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7108,7 +7108,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "Elixir",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7125,7 +7125,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7142,7 +7142,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7159,7 +7159,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7176,7 +7176,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7193,7 +7193,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7210,7 +7210,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7227,7 +7227,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7244,7 +7244,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7261,7 +7261,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7278,7 +7278,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7295,7 +7295,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7312,7 +7312,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7329,7 +7329,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7346,7 +7346,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7363,7 +7363,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7380,7 +7380,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7397,7 +7397,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7414,7 +7414,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -7443,7 +7443,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -7472,7 +7472,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7489,7 +7489,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7506,7 +7506,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7523,7 +7523,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -7552,7 +7552,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7569,7 +7569,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7586,7 +7586,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7603,7 +7603,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7620,7 +7620,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7637,7 +7637,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7654,7 +7654,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7671,7 +7671,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -7722,7 +7722,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -7751,7 +7751,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7768,7 +7768,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -7821,7 +7821,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7838,7 +7838,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7855,7 +7855,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7872,7 +7872,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7889,7 +7889,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7906,7 +7906,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7923,7 +7923,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7940,7 +7940,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7957,7 +7957,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7974,7 +7974,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -7991,7 +7991,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8008,7 +8008,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8025,7 +8025,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8054,7 +8054,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8071,7 +8071,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8088,7 +8088,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8117,7 +8117,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8134,7 +8134,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8151,7 +8151,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8168,7 +8168,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8185,7 +8185,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8214,7 +8214,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8231,7 +8231,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8260,7 +8260,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8277,7 +8277,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8294,7 +8294,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8324,7 +8324,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8341,7 +8341,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8358,7 +8358,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8375,7 +8375,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8392,7 +8392,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8409,7 +8409,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8426,7 +8426,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8443,7 +8443,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8460,7 +8460,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8477,7 +8477,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8494,7 +8494,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8511,7 +8511,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8528,7 +8528,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8545,7 +8545,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8562,7 +8562,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8579,7 +8579,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8596,7 +8596,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8613,7 +8613,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8642,7 +8642,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8659,7 +8659,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8688,7 +8688,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8705,7 +8705,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8722,7 +8722,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8739,7 +8739,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8768,7 +8768,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8785,7 +8785,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8802,7 +8802,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8819,7 +8819,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8848,7 +8848,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8865,7 +8865,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8882,7 +8882,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8899,7 +8899,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -8928,7 +8928,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8945,7 +8945,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8962,7 +8962,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8979,7 +8979,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -8996,7 +8996,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9013,7 +9013,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9030,7 +9030,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9047,7 +9047,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9064,7 +9064,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9081,7 +9081,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9098,7 +9098,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -9127,7 +9127,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -9156,7 +9156,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9173,7 +9173,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9190,7 +9190,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9207,7 +9207,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9224,7 +9224,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9241,7 +9241,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9258,7 +9258,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9275,7 +9275,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9292,7 +9292,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9309,7 +9309,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9326,7 +9326,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9343,7 +9343,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9360,7 +9360,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9377,7 +9377,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9394,7 +9394,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9411,7 +9411,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9428,7 +9428,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9445,7 +9445,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9462,7 +9462,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9479,7 +9479,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9496,7 +9496,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9513,7 +9513,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9530,7 +9530,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9547,7 +9547,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9564,7 +9564,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -9614,7 +9614,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "Elixir",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -9643,7 +9643,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -9672,7 +9672,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -9701,7 +9701,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": {
@@ -9749,7 +9749,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9766,7 +9766,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
@@ -9783,7 +9783,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
