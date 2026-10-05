@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-28T14:06:05.640Z",
+  "updatedAt": "2026-10-05T14:52:28.255Z",
   "stats": {
-    "total": 457,
+    "total": 272,
     "zara": 200,
-    "lattafa": 257,
+    "lattafa": 72,
     "men": 0,
     "women": 0,
     "unisex": 0,
     "new": 0,
-    "disappeared": 0,
-    "matched": 72,
-    "highConfidence": 29,
+    "disappeared": 185,
+    "matched": 43,
+    "highConfidence": 24,
     "officialCollaborations": 7,
     "zaraFragranticaReportedTotal": 1271,
     "zaraLocalRegistry": 200
@@ -6232,7 +6232,9 @@
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
-    },
+    }
+  ],
+  "disappeared": [
     {
       "id": "lattafa:lattafa-pride-kids-play",
       "house": "Lattafa",
@@ -6248,7 +6250,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:lattafa-pride-kids-happy-time",
@@ -6265,7 +6268,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:lattafa-pride-kids-riders",
@@ -6282,7 +6286,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:lattafa-pride-kids-happy-brush",
@@ -6299,7 +6304,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:her-confession",
@@ -6316,7 +6322,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:his-confession",
@@ -6345,7 +6352,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:badee-al-oud-amethyest",
@@ -6362,7 +6370,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:peace-love",
@@ -6379,7 +6388,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:kashan",
@@ -6396,7 +6406,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:atlas",
@@ -6425,7 +6436,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:art-of-nature-i",
@@ -6442,7 +6454,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:artisan-ethnique",
@@ -6459,7 +6472,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:yara-candy",
@@ -6476,7 +6490,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-nashama-caprice",
@@ -6505,7 +6520,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:kingdom-men",
@@ -6522,7 +6538,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:kingdom-women",
@@ -6539,7 +6556,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:angham",
@@ -6568,7 +6586,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ajwad-pink-to-pink",
@@ -6585,7 +6604,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:sehr-lattafa",
@@ -6602,7 +6622,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:rave-now-women",
@@ -6619,7 +6640,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:rave-now-white",
@@ -6636,7 +6658,8 @@
       "isNew": false,
       "firstSeenAt": "2026-09-07T12:42:50.080Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:rave-now-rouge",
@@ -6653,7 +6676,8 @@
       "isNew": false,
       "firstSeenAt": "2026-09-07T12:42:50.080Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:rave-now-intense",
@@ -6670,7 +6694,8 @@
       "isNew": false,
       "firstSeenAt": "2026-09-07T12:42:50.080Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:rave-now",
@@ -6687,7 +6712,8 @@
       "isNew": false,
       "firstSeenAt": "2026-09-07T12:42:50.080Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:qaaed-al-shabaab",
@@ -6704,7 +6730,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:pisa",
@@ -6721,7 +6748,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:oud-thameen",
@@ -6738,7 +6766,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:majd-al-sultan",
@@ -6755,7 +6784,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:mahasin-crystal",
@@ -6772,7 +6802,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:kasoof-black",
@@ -6789,7 +6820,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:emeer",
@@ -6806,7 +6838,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ameer-al-arab-imperium",
@@ -6823,7 +6856,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ameer-al-oud",
@@ -6871,7 +6905,8 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:adeeb",
@@ -6888,7 +6923,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:asad-zanzibar",
@@ -6941,7 +6977,8 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:oud-najdia",
@@ -6958,7 +6995,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:musk-sugar-plum-thameen-collection",
@@ -6975,7 +7013,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:musk-candy-rose-thameen-collection",
@@ -6992,7 +7031,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:fakhar-lattafa-women",
@@ -7009,7 +7049,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:hayatim",
@@ -7026,7 +7067,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:pure-musk",
@@ -7043,7 +7085,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:raed-silver",
@@ -7060,7 +7103,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:safwaan-lauture-oud",
@@ -7077,7 +7121,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:mayar",
@@ -7094,7 +7139,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:yara-tous",
@@ -7111,7 +7157,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:rouat-al-oud",
@@ -7128,7 +7175,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:qimmah-for-men",
@@ -7145,7 +7193,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:oud-mood-reminisence",
@@ -7162,7 +7211,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:oud-mood-elixir",
@@ -7179,7 +7229,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:musk-mood",
@@ -7196,7 +7247,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:oud-lail-maleki",
@@ -7213,7 +7265,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:fakhar-lattafa-men",
@@ -7230,7 +7283,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:awraq-al-oud",
@@ -7247,7 +7301,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:musk-so-poudree-thameen-collection",
@@ -7264,7 +7319,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:musk-wild-vanille-thameen-collection",
@@ -7281,7 +7337,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:raed-oud",
@@ -7298,7 +7355,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:eclaire",
@@ -7315,7 +7373,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ameer-al-arab",
@@ -7332,7 +7391,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ameerat-al-arab",
@@ -7349,7 +7409,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:andaleeb-flora",
@@ -7366,7 +7427,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:eternal-oud",
@@ -7383,7 +7445,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:hala",
@@ -7400,7 +7463,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:afaq",
@@ -7417,7 +7481,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:safwaan-lauture-musk",
@@ -7434,7 +7499,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:bayaan",
@@ -7451,7 +7517,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:badee-al-oud-honor-and-glory",
@@ -7468,7 +7535,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:haya",
@@ -7497,7 +7565,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:maahir-legacy",
@@ -7526,7 +7595,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ajwad",
@@ -7543,7 +7613,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:yara",
@@ -7560,7 +7631,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:maahir-black-edition",
@@ -7577,7 +7649,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:maahir",
@@ -7606,7 +7679,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:opulent-musk",
@@ -7623,7 +7697,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:qaaed",
@@ -7640,7 +7715,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:raed-luxe",
@@ -7657,7 +7733,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:qimmah-for-women",
@@ -7674,7 +7751,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:qaed-al-fursan",
@@ -7691,7 +7769,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:sheikh-al-shuyukh-luxe-edtion",
@@ -7708,7 +7787,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ramz-lattafa-gold",
@@ -7725,7 +7805,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ramz-lattafa-silver",
@@ -7776,7 +7857,8 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:velvet-oud",
@@ -7805,7 +7887,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:oud-mood",
@@ -7822,7 +7905,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:asad",
@@ -7875,7 +7959,8 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ejaazi",
@@ -7892,7 +7977,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:lail-maleki",
@@ -7909,7 +7995,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:najdia",
@@ -7926,7 +8013,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:badee-al-oud-oud-for-glory",
@@ -7943,7 +8031,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:musamam",
@@ -7960,7 +8049,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:mohra",
@@ -7977,7 +8067,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:khamrah",
@@ -7994,7 +8085,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:suqaraat",
@@ -8011,7 +8103,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-noble-safeer",
@@ -8028,7 +8121,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-noble-wazeer",
@@ -8045,7 +8139,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-noble-ameer",
@@ -8062,7 +8157,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:confidential-private-gold",
@@ -8079,7 +8175,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:raghba",
@@ -8108,7 +8205,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:velvet-rose",
@@ -8125,7 +8223,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:qaed-al-fursan-unlimited",
@@ -8142,7 +8241,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:hayaati-florence",
@@ -8171,7 +8271,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:badee-al-oud-sublime",
@@ -8188,7 +8289,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:yara-moii",
@@ -8205,7 +8307,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:sakeena",
@@ -8222,7 +8325,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:emaan",
@@ -8239,7 +8343,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:hayaati-al-maleky",
@@ -8268,7 +8373,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ajayeb-dubai-portrait",
@@ -8285,7 +8391,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:jasoor",
@@ -8314,7 +8421,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:mayar-natural-intense",
@@ -8331,7 +8439,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:khamrah-qahwa",
@@ -8348,7 +8457,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:aura",
@@ -8378,7 +8488,8 @@
         "consensus": "Consensus fort",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:taweel",
@@ -8395,7 +8506,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:teriaq",
@@ -8412,7 +8524,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:musamam-white-intense",
@@ -8429,7 +8542,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:thouq",
@@ -8446,7 +8560,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:leen",
@@ -8463,7 +8578,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:la-collection-d-antiquites-1505",
@@ -8480,7 +8596,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:la-collection-d-antiquities-1910",
@@ -8497,7 +8614,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:la-affrican-drummer-20-ml",
@@ -8514,7 +8632,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:la-african-drummer",
@@ -8531,7 +8650,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:gharam",
@@ -8548,7 +8668,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:embrace",
@@ -8565,7 +8686,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:masa-20ml",
@@ -8582,7 +8704,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:leen-20-ml",
@@ -8599,7 +8722,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:la-collection-d-antiquites-1886-20ml",
@@ -8616,7 +8740,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:la-collection-d-antiquites-1505-20ml",
@@ -8633,7 +8758,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:la-collection-dantiquites-1910-20ml",
@@ -8650,7 +8776,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:gharam-20ml",
@@ -8667,7 +8794,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:affection-20ml",
@@ -8696,7 +8824,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:breeze-20ml",
@@ -8713,7 +8842,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:affection",
@@ -8742,7 +8872,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:raw-human",
@@ -8759,7 +8890,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:breeze",
@@ -8776,7 +8908,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:masa",
@@ -8793,7 +8926,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:vintage-radio",
@@ -8822,7 +8956,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:la-collection-dantiquity-1886",
@@ -8839,7 +8974,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ajwaa",
@@ -8856,7 +8992,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ishq-al-shuyukh-silver",
@@ -8873,7 +9010,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:nebras",
@@ -8902,7 +9040,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-khas-winners-trophy-silver",
@@ -8919,7 +9058,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-khas-winners-trophy-gold",
@@ -8936,7 +9076,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-areeq-gold",
@@ -8953,7 +9094,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:shaheen-silver",
@@ -8982,7 +9124,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:shaheen-gold",
@@ -8999,7 +9142,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:awaan",
@@ -9016,7 +9160,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-areeq-silver",
@@ -9033,7 +9178,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ishq-al-shuyukh-gold",
@@ -9050,7 +9196,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:maharjan-silver",
@@ -9067,7 +9214,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:maharjan-gold",
@@ -9084,7 +9232,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:wajood",
@@ -9101,7 +9250,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-ameed-silver",
@@ -9118,7 +9268,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:blue-sapphire",
@@ -9135,7 +9286,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:royal-sapphire",
@@ -9152,7 +9304,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-qiam-silver",
@@ -9181,7 +9334,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-qiam-gold",
@@ -9210,7 +9364,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ansaam-silver",
@@ -9227,7 +9382,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:tharwah-gold",
@@ -9244,7 +9400,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:antique-20-ml",
@@ -9261,7 +9418,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:classic-stone",
@@ -9278,7 +9436,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:durrah",
@@ -9295,7 +9454,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:hayaam",
@@ -9312,7 +9472,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:vintage-castle",
@@ -9329,7 +9490,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:remas",
@@ -9346,7 +9508,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:mughal-fort",
@@ -9363,7 +9526,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ghinwa",
@@ -9380,7 +9544,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-dana",
@@ -9397,7 +9562,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:toleen",
@@ -9414,7 +9580,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:khalid",
@@ -9431,7 +9598,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:zikra",
@@ -9448,7 +9616,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:lujain",
@@ -9465,7 +9634,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-jawhara",
@@ -9482,7 +9652,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:antique",
@@ -9499,7 +9670,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:khanjar",
@@ -9516,7 +9688,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-narjis",
@@ -9533,7 +9706,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ameerat-al-arab-prive-rose",
@@ -9550,7 +9724,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:pure-white",
@@ -9567,7 +9742,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:andaleeb",
@@ -9584,7 +9760,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:tharwah-silver",
@@ -9601,7 +9778,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ajayeb-dubai",
@@ -9618,7 +9796,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ana-abiyedh-rouge",
@@ -9668,7 +9847,8 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:hayaati-gold-elixir",
@@ -9697,7 +9877,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:hayaati",
@@ -9726,7 +9907,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:fakhar-lattafa-extrait",
@@ -9755,7 +9937,8 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:ameer-al-oudh-intense",
@@ -9803,7 +9986,8 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      }
+      },
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:al-dur-al-maknoon-silver",
@@ -9820,7 +10004,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:24-carat-white-gold",
@@ -9837,7 +10022,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
       "id": "lattafa:24-carat-pure-gold",
@@ -9854,8 +10040,8 @@
       "isNew": false,
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
-      "inspiration": null
+      "inspiration": null,
+      "disappearedAt": "2026-10-05T14:52:28.255Z"
     }
-  ],
-  "disappeared": []
+  ]
 }
