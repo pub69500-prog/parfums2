@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-12T15:38:32.232Z",
+  "updatedAt": "2026-10-19T13:29:47.244Z",
   "stats": {
-    "total": 260,
+    "total": 457,
     "zara": 200,
-    "lattafa": 60,
+    "lattafa": 257,
     "men": 0,
     "women": 0,
     "unisex": 0,
-    "new": 0,
-    "disappeared": 197,
-    "matched": 42,
-    "highConfidence": 23,
+    "new": 197,
+    "disappeared": 0,
+    "matched": 72,
+    "highConfidence": 29,
     "officialCollaborations": 7,
     "zaraFragranticaReportedTotal": 1271,
     "zaraLocalRegistry": 200
@@ -5992,714 +5992,106 @@
       "firstSeenAt": "2026-08-22T17:54:06.005Z",
       "collaboration": null,
       "inspiration": null
-    }
-  ],
-  "disappeared": [
-    {
-      "id": "lattafa:lattafa-pride-kids-play",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Lattafa Pride Kids – Play",
-      "price": "",
-      "url": "https://lattafa.com/product/lattafa-pride-kids-play/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/10/Play-Bottle.webp",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
     },
     {
-      "id": "lattafa:lattafa-pride-kids-happy-time",
+      "id": "lattafa:victoria",
       "house": "Lattafa",
       "gender": "À classer",
-      "name": "Lattafa Pride Kids – Happy Time",
+      "name": "Victoria",
       "price": "",
-      "url": "https://lattafa.com/product/lattafa-pride-kids-happy-time/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/10/Happy-Time-Bottle.webp",
+      "url": "https://lattafa.com/product/victoria/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2025/02/Viktoria-Bottle-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
-      "id": "lattafa:lattafa-pride-kids-riders",
+      "id": "lattafa:art-of-universe",
       "house": "Lattafa",
       "gender": "À classer",
-      "name": "Lattafa Pride Kids – Riders",
+      "name": "Art of Universe",
       "price": "",
-      "url": "https://lattafa.com/product/lattafa-pride-kids-riders/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/10/Riders-Bottle.webp",
+      "url": "https://lattafa.com/product/art-of-universe/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2025/01/Art-of-Universe-Bottle-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
-      "id": "lattafa:lattafa-pride-kids-happy-brush",
+      "id": "lattafa:brioche-vanille",
       "house": "Lattafa",
       "gender": "À classer",
-      "name": "Lattafa Pride Kids – Happy Brush",
+      "name": "Brioche Vanille",
       "price": "",
-      "url": "https://lattafa.com/product/lattafa-pride-kids-happy-brush/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/10/Happy-Brush-Bottle.webp",
+      "url": "https://lattafa.com/product/brioche-vanille/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2025/01/Brioche-Vanille-Bottle-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
-      "id": "lattafa:her-confession",
+      "id": "lattafa:lail-maleki-moroccan-blue",
       "house": "Lattafa",
       "gender": "À classer",
-      "name": "Her Confession",
+      "name": "Lail Maleki Moroccan Blue",
       "price": "",
-      "url": "https://lattafa.com/product/her-confession/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/10/Her-Confession-copy-scaled.jpg",
+      "url": "https://lattafa.com/product/lail-maleki-moroccan-blue/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/12/Lail-Malaki-Moroccan-Blue-Bottle-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
-      "id": "lattafa:his-confession",
+      "id": "lattafa:ansaam-gold",
       "house": "Lattafa",
       "gender": "À classer",
-      "name": "His Confession",
+      "name": "Ansaam Gold",
       "price": "",
-      "url": "https://lattafa.com/product/his-confession/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/10/His-Confession-copy-scaled.jpg",
+      "url": "https://lattafa.com/product/ansaam-gold/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/12/Bottle-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": {
-        "brand": "Givenchy",
-        "name": "Gentleman Eau de Parfum",
-        "confidence": "moyenne",
-        "family": "Boisé, poudré",
-        "sources": [
-          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
-        ],
-        "note": "Rapprochement olfactif rapporté, non officiel.",
-        "consensus": "Consensus modéré",
-        "notes": null,
-        "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
-      "id": "lattafa:badee-al-oud-amethyest",
+      "id": "lattafa:asad-bourbon",
       "house": "Lattafa",
       "gender": "À classer",
-      "name": "Badee Al Oud Amethyest",
+      "name": "Asad Bourbon",
       "price": "",
-      "url": "https://lattafa.com/product/badee-al-oud-amethyest/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTc1NCAxNzU0IiB3aWR0aD0iMTc1NCIgaGVpZ2h0PSIxNzU0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "url": "https://lattafa.com/product/asad-bourbon/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/12/Asad-Bourbon-Bottle-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:peace-love",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Peace & Love",
-      "price": "",
-      "url": "https://lattafa.com/product/peace-love/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNDE3IiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNDE3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:kashan",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Kashan",
-      "price": "",
-      "url": "https://lattafa.com/product/kashan/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUxMyAyNTYwIiB3aWR0aD0iMTUxMyIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:atlas",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Atlas",
-      "price": "",
-      "url": "https://lattafa.com/product/atlas/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzUwOCAyNDgwIiB3aWR0aD0iMzUwOCIgaGVpZ2h0PSIyNDgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": {
-        "brand": "Orto Parisi",
-        "name": "Megamare",
-        "confidence": "moyenne",
-        "family": "Marin, salin",
-        "sources": [
-          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
-        ],
-        "note": "Rapprochement olfactif rapporté, non officiel.",
-        "consensus": "Consensus modéré",
-        "notes": null,
-        "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:art-of-nature-i",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Art of Nature I",
-      "price": "",
-      "url": "https://lattafa.com/product/art-of-nature-i/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNDE3IiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNDE3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:artisan-ethnique",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Artisan Ethnique",
-      "price": "",
-      "url": "https://lattafa.com/product/artisan-ethnique/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIxOCAyNTYwIiB3aWR0aD0iMTIxOCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:yara-candy",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Yara Candy",
-      "price": "",
-      "url": "https://lattafa.com/product/yara-candy/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/09/Yara-Candy-Bottle.png",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:al-nashama-caprice",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Al Nashama Caprice",
-      "price": "",
-      "url": "https://lattafa.com/product/al-nashama-caprice/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/09/Bottle-1-scaled.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": {
-        "brand": "Initio",
-        "name": "Paragon",
-        "confidence": "moyenne",
-        "family": "Boisé, fruité",
-        "sources": [
-          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
-        ],
-        "note": "Rapprochement olfactif rapporté, non officiel.",
-        "consensus": "Consensus modéré",
-        "notes": null,
-        "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:kingdom-men",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Kingdom Men",
-      "price": "",
-      "url": "https://lattafa.com/product/kingdom-men/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/09/Kingdom-men-bottle.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:kingdom-women",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Kingdom Women",
-      "price": "",
-      "url": "https://lattafa.com/product/kingdom-women/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/09/Kingdom-Women-Bottle.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:angham",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Angham",
-      "price": "",
-      "url": "https://lattafa.com/product/angham/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/09/Angham-Bottle-scaled.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": {
-        "brand": "Burberry",
-        "name": "Goddess",
-        "confidence": "moyenne",
-        "family": "Vanillé, lavande",
-        "sources": [
-          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
-        ],
-        "note": "Rapprochement olfactif rapporté, non officiel.",
-        "consensus": "Consensus modéré",
-        "notes": null,
-        "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:ajwad-pink-to-pink",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Ajwad Pink to Pink",
-      "price": "",
-      "url": "https://lattafa.com/product/ajwad-pink-to-pink/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/08/Ajwad-Pink-to-Pink-01.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:sehr-lattafa",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Sehr lattafa",
-      "price": "",
-      "url": "https://lattafa.com/product/sehr-lattafa/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:rave-now-women",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Rave Now- women",
-      "price": "",
-      "url": "https://lattafa.com/product/rave-now-women/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:rave-now-white",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Rave Now- White",
-      "price": "",
-      "url": "https://lattafa.com/product/rave-now-white/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ4MCAyNDgwIiB3aWR0aD0iMjQ4MCIgaGVpZ2h0PSIyNDgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-09-07T12:42:50.080Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:rave-now-rouge",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Rave Now- rouge",
-      "price": "",
-      "url": "https://lattafa.com/product/rave-now-rouge/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-09-07T12:42:50.080Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:rave-now-intense",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Rave Now- Intense",
-      "price": "",
-      "url": "https://lattafa.com/product/rave-now-intense/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-09-07T12:42:50.080Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:rave-now",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Rave Now",
-      "price": "",
-      "url": "https://lattafa.com/product/rave-now/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-09-07T12:42:50.080Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:qaaed-al-shabaab",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Qaaed al Shabaab",
-      "price": "",
-      "url": "https://lattafa.com/product/qaaed-al-shabaab/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/07/Qaaed-al-Shabaab-01.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:pisa",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Pisa",
-      "price": "",
-      "url": "https://lattafa.com/product/pisa/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/07/2-10.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:oud-thameen",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Oud Thameen",
-      "price": "",
-      "url": "https://lattafa.com/product/oud-thameen/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/07/2-9.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:majd-al-sultan",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Majd Al Sultan",
-      "price": "",
-      "url": "https://lattafa.com/product/majd-al-sultan/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/07/2-8.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:mahasin-crystal",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Mahasin Crystal",
-      "price": "",
-      "url": "https://lattafa.com/product/mahasin-crystal/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/07/Mahasin-Crystal-01.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:kasoof-black",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Kasoof- Black",
-      "price": "",
-      "url": "https://lattafa.com/product/kasoof-black/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/07/2-5.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:emeer",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Emeer",
-      "price": "",
-      "url": "https://lattafa.com/product/emeer/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:ameer-al-arab-imperium",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Ameer Al Arab Imperium",
-      "price": "",
-      "url": "https://lattafa.com/product/ameer-al-arab-imperium/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:ameer-al-oud",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Ameer Al oud",
-      "price": "",
-      "url": "https://lattafa.com/product/ameer-al-oud/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ4MCAyNDgwIiB3aWR0aD0iMjQ4MCIgaGVpZ2h0PSIyNDgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": {
-        "brand": "Maison Margiela Replica",
-        "name": "By the Fireplace",
-        "confidence": "moyenne",
-        "family": "Boisé, fumé",
-        "sources": [
-          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/",
-          "https://www.reddit.com/r/DesiFragranceAddicts/comments/15iu3f7/lattafa_clones_list/",
-          "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ameer-Al-Oudh-Intense-Oud-64947.html"
-        ],
-        "note": "Souvent comparé à By the Fireplace, surtout pour le registre boisé-fumé et vanillé. Fragrantica montre aussi de nombreux avis précisant qu'il est plus sucré et plus oud, donc ce n'est pas un clone strict.",
-        "consensus": "Consensus modéré",
-        "notes": {
-          "top": [
-            "Notes boisées",
-            "Oud"
-          ],
-          "heart": [
-            "Sucre",
-            "Vanille"
-          ],
-          "base": [
-            "Oud",
-            "Bois de santal",
-            "Notes herbacées"
-          ],
-          "notesSource": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ameer-Al-Oudh-Intense-Oud-64947.html",
-          "verifiedWith": "Fragrantica",
-          "verifiedAt": "2026-08-22"
-        },
-        "fragranticaVerified": true
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:adeeb",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Adeeb",
-      "price": "",
-      "url": "https://lattafa.com/product/adeeb/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ4MCAyNDgwIiB3aWR0aD0iMjQ4MCIgaGVpZ2h0PSIyNDgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:asad-zanzibar",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Asad Zanzibar",
-      "price": "",
-      "url": "https://lattafa.com/product/asad-zanzibar/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Dior",
@@ -6737,8 +6129,819 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
+    },
+    {
+      "id": "lattafa:mashrabya",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Mashrabya",
+      "price": "",
+      "url": "https://lattafa.com/product/mashrabya/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAzMyAyNTYwIiB3aWR0aD0iMTAzMyIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:art-of-nature-ii",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Art of Nature II",
+      "price": "",
+      "url": "https://lattafa.com/product/art-of-nature-ii/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNDE3IiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNDE3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:mayar-cherry-intense",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Mayar Cherry Intense",
+      "price": "",
+      "url": "https://lattafa.com/product/mayar-cherry-intense/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTExNiAyNTYwIiB3aWR0aD0iMTExNiIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:afeef",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Afeef",
+      "price": "",
+      "url": "https://lattafa.com/product/afeef/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjA5NyAzMTIxIiB3aWR0aD0iMjA5NyIgaGVpZ2h0PSIzMTIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:lattafa-teriaq-intense",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Lattafa Teriaq Intense",
+      "price": "",
+      "url": "https://lattafa.com/product/lattafa-teriaq-intense/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAyIDE2MDAiIHdpZHRoPSI3MDIiIGhlaWdodD0iMTYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:badee-al-oud-noble-blush",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Badee Al Oud Noble Blush",
+      "price": "",
+      "url": "https://lattafa.com/product/badee-al-oud-noble-blush/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTE0MiAxNzcyIiB3aWR0aD0iMTE0MiIgaGVpZ2h0PSIxNzcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:lattafa-pride-kids-play",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Lattafa Pride Kids – Play",
+      "price": "",
+      "url": "https://lattafa.com/product/lattafa-pride-kids-play/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/10/Play-Bottle.webp",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:lattafa-pride-kids-happy-time",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Lattafa Pride Kids – Happy Time",
+      "price": "",
+      "url": "https://lattafa.com/product/lattafa-pride-kids-happy-time/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/10/Happy-Time-Bottle.webp",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:lattafa-pride-kids-riders",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Lattafa Pride Kids – Riders",
+      "price": "",
+      "url": "https://lattafa.com/product/lattafa-pride-kids-riders/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/10/Riders-Bottle.webp",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:lattafa-pride-kids-happy-brush",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Lattafa Pride Kids – Happy Brush",
+      "price": "",
+      "url": "https://lattafa.com/product/lattafa-pride-kids-happy-brush/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/10/Happy-Brush-Bottle.webp",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:her-confession",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Her Confession",
+      "price": "",
+      "url": "https://lattafa.com/product/her-confession/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/10/Her-Confession-copy-scaled.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:his-confession",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "His Confession",
+      "price": "",
+      "url": "https://lattafa.com/product/his-confession/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/10/His-Confession-copy-scaled.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": {
+        "brand": "Givenchy",
+        "name": "Gentleman Eau de Parfum",
+        "confidence": "moyenne",
+        "family": "Boisé, poudré",
+        "sources": [
+          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
+        ],
+        "note": "Rapprochement olfactif rapporté, non officiel.",
+        "consensus": "Consensus modéré",
+        "notes": null,
+        "fragranticaVerified": false
+      }
+    },
+    {
+      "id": "lattafa:badee-al-oud-amethyest",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Badee Al Oud Amethyest",
+      "price": "",
+      "url": "https://lattafa.com/product/badee-al-oud-amethyest/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTc1NCAxNzU0IiB3aWR0aD0iMTc1NCIgaGVpZ2h0PSIxNzU0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:peace-love",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Peace & Love",
+      "price": "",
+      "url": "https://lattafa.com/product/peace-love/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNDE3IiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNDE3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:kashan",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Kashan",
+      "price": "",
+      "url": "https://lattafa.com/product/kashan/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUxMyAyNTYwIiB3aWR0aD0iMTUxMyIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:atlas",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Atlas",
+      "price": "",
+      "url": "https://lattafa.com/product/atlas/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzUwOCAyNDgwIiB3aWR0aD0iMzUwOCIgaGVpZ2h0PSIyNDgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": {
+        "brand": "Orto Parisi",
+        "name": "Megamare",
+        "confidence": "moyenne",
+        "family": "Marin, salin",
+        "sources": [
+          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
+        ],
+        "note": "Rapprochement olfactif rapporté, non officiel.",
+        "consensus": "Consensus modéré",
+        "notes": null,
+        "fragranticaVerified": false
+      }
+    },
+    {
+      "id": "lattafa:art-of-nature-i",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Art of Nature I",
+      "price": "",
+      "url": "https://lattafa.com/product/art-of-nature-i/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNDE3IiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNDE3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:artisan-ethnique",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Artisan Ethnique",
+      "price": "",
+      "url": "https://lattafa.com/product/artisan-ethnique/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIxOCAyNTYwIiB3aWR0aD0iMTIxOCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:yara-candy",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Yara Candy",
+      "price": "",
+      "url": "https://lattafa.com/product/yara-candy/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/09/Yara-Candy-Bottle.png",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:al-nashama-caprice",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Al Nashama Caprice",
+      "price": "",
+      "url": "https://lattafa.com/product/al-nashama-caprice/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/09/Bottle-1-scaled.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": {
+        "brand": "Initio",
+        "name": "Paragon",
+        "confidence": "moyenne",
+        "family": "Boisé, fruité",
+        "sources": [
+          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
+        ],
+        "note": "Rapprochement olfactif rapporté, non officiel.",
+        "consensus": "Consensus modéré",
+        "notes": null,
+        "fragranticaVerified": false
+      }
+    },
+    {
+      "id": "lattafa:kingdom-men",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Kingdom Men",
+      "price": "",
+      "url": "https://lattafa.com/product/kingdom-men/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/09/Kingdom-men-bottle.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:kingdom-women",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Kingdom Women",
+      "price": "",
+      "url": "https://lattafa.com/product/kingdom-women/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/09/Kingdom-Women-Bottle.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:angham",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Angham",
+      "price": "",
+      "url": "https://lattafa.com/product/angham/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/09/Angham-Bottle-scaled.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": {
+        "brand": "Burberry",
+        "name": "Goddess",
+        "confidence": "moyenne",
+        "family": "Vanillé, lavande",
+        "sources": [
+          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
+        ],
+        "note": "Rapprochement olfactif rapporté, non officiel.",
+        "consensus": "Consensus modéré",
+        "notes": null,
+        "fragranticaVerified": false
+      }
+    },
+    {
+      "id": "lattafa:ajwad-pink-to-pink",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Ajwad Pink to Pink",
+      "price": "",
+      "url": "https://lattafa.com/product/ajwad-pink-to-pink/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/08/Ajwad-Pink-to-Pink-01.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:sehr-lattafa",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Sehr lattafa",
+      "price": "",
+      "url": "https://lattafa.com/product/sehr-lattafa/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:rave-now-women",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Rave Now- women",
+      "price": "",
+      "url": "https://lattafa.com/product/rave-now-women/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:rave-now-white",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Rave Now- White",
+      "price": "",
+      "url": "https://lattafa.com/product/rave-now-white/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ4MCAyNDgwIiB3aWR0aD0iMjQ4MCIgaGVpZ2h0PSIyNDgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:rave-now-rouge",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Rave Now- rouge",
+      "price": "",
+      "url": "https://lattafa.com/product/rave-now-rouge/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:rave-now-intense",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Rave Now- Intense",
+      "price": "",
+      "url": "https://lattafa.com/product/rave-now-intense/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:rave-now",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Rave Now",
+      "price": "",
+      "url": "https://lattafa.com/product/rave-now/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:qaaed-al-shabaab",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Qaaed al Shabaab",
+      "price": "",
+      "url": "https://lattafa.com/product/qaaed-al-shabaab/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/07/Qaaed-al-Shabaab-01.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:pisa",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Pisa",
+      "price": "",
+      "url": "https://lattafa.com/product/pisa/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/07/2-10.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:oud-thameen",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Oud Thameen",
+      "price": "",
+      "url": "https://lattafa.com/product/oud-thameen/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/07/2-9.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:majd-al-sultan",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Majd Al Sultan",
+      "price": "",
+      "url": "https://lattafa.com/product/majd-al-sultan/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/07/2-8.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:mahasin-crystal",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Mahasin Crystal",
+      "price": "",
+      "url": "https://lattafa.com/product/mahasin-crystal/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/07/Mahasin-Crystal-01.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:kasoof-black",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Kasoof- Black",
+      "price": "",
+      "url": "https://lattafa.com/product/kasoof-black/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/07/2-5.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:emeer",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Emeer",
+      "price": "",
+      "url": "https://lattafa.com/product/emeer/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:ameer-al-arab-imperium",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Ameer Al Arab Imperium",
+      "price": "",
+      "url": "https://lattafa.com/product/ameer-al-arab-imperium/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:ameer-al-oud",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Ameer Al oud",
+      "price": "",
+      "url": "https://lattafa.com/product/ameer-al-oud/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ4MCAyNDgwIiB3aWR0aD0iMjQ4MCIgaGVpZ2h0PSIyNDgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": {
+        "brand": "Maison Margiela Replica",
+        "name": "By the Fireplace",
+        "confidence": "moyenne",
+        "family": "Boisé, fumé",
+        "sources": [
+          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/",
+          "https://www.reddit.com/r/DesiFragranceAddicts/comments/15iu3f7/lattafa_clones_list/",
+          "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ameer-Al-Oudh-Intense-Oud-64947.html"
+        ],
+        "note": "Souvent comparé à By the Fireplace, surtout pour le registre boisé-fumé et vanillé. Fragrantica montre aussi de nombreux avis précisant qu'il est plus sucré et plus oud, donc ce n'est pas un clone strict.",
+        "consensus": "Consensus modéré",
+        "notes": {
+          "top": [
+            "Notes boisées",
+            "Oud"
+          ],
+          "heart": [
+            "Sucre",
+            "Vanille"
+          ],
+          "base": [
+            "Oud",
+            "Bois de santal",
+            "Notes herbacées"
+          ],
+          "notesSource": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ameer-Al-Oudh-Intense-Oud-64947.html",
+          "verifiedWith": "Fragrantica",
+          "verifiedAt": "2026-08-22"
+        },
+        "fragranticaVerified": true
+      }
+    },
+    {
+      "id": "lattafa:adeeb",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Adeeb",
+      "price": "",
+      "url": "https://lattafa.com/product/adeeb/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ4MCAyNDgwIiB3aWR0aD0iMjQ4MCIgaGVpZ2h0PSIyNDgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null
+    },
+    {
+      "id": "lattafa:asad-zanzibar",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Asad Zanzibar",
+      "price": "",
+      "url": "https://lattafa.com/product/asad-zanzibar/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": {
+        "brand": "Dior",
+        "name": "Sauvage Elixir",
+        "confidence": "forte",
+        "family": "Épicé, ambré",
+        "sources": [
+          "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-72821.html",
+          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/",
+          "https://www.reddit.com/r/DesiFragranceAddicts/comments/15iu3f7/lattafa_clones_list/",
+          "https://www.fragrantica.com/board/viewtopic.php?id=286972"
+        ],
+        "note": "Très souvent rapproché de Dior Sauvage Elixir. Les avis Fragrantica convergent sur la même famille olfactive, tout en signalant un Asad plus doux, vanillé et ambré : ce n'est pas un 1:1.",
+        "consensus": "Consensus fort",
+        "notes": {
+          "top": [
+            "Poivre noir",
+            "Tabac",
+            "Ananas"
+          ],
+          "heart": [
+            "Patchouli",
+            "Café",
+            "Iris"
+          ],
+          "base": [
+            "Vanille",
+            "Ambre",
+            "Bois sec",
+            "Benjoin",
+            "Labdanum"
+          ],
+          "notesSource": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-72821.html",
+          "verifiedWith": "Fragrantica",
+          "verifiedAt": "2026-08-22"
+        },
+        "fragranticaVerified": true
+      }
     },
     {
       "id": "lattafa:oud-najdia",
@@ -6752,11 +6955,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:musk-sugar-plum-thameen-collection",
@@ -6765,16 +6967,15 @@
       "name": "Musk Sugar Plum – Thameen Collection",
       "price": "",
       "url": "https://lattafa.com/product/musk-sugar-plum-thameen-collection/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/2-15.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/2-15.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:musk-candy-rose-thameen-collection",
@@ -6783,16 +6984,15 @@
       "name": "Musk Candy Rose -Thameen Collection",
       "price": "",
       "url": "https://lattafa.com/product/musk-candy-rose-thameen-collection/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/2-13.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/2-13.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:fakhar-lattafa-women",
@@ -6801,16 +7001,15 @@
       "name": "Fakhar Lattafa Women",
       "price": "",
       "url": "https://lattafa.com/product/fakhar-lattafa-women/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/07/Fakhar-Lattafa-Women-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/07/Fakhar-Lattafa-Women-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:hayatim",
@@ -6819,16 +7018,15 @@
       "name": "Hayatim",
       "price": "",
       "url": "https://lattafa.com/product/hayatim/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/2-12.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/2-12.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:pure-musk",
@@ -6837,16 +7035,15 @@
       "name": "Pure Musk",
       "price": "",
       "url": "https://lattafa.com/product/pure-musk/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/Pure-Musk-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/Pure-Musk-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:raed-silver",
@@ -6855,16 +7052,15 @@
       "name": "Raed Silver",
       "price": "",
       "url": "https://lattafa.com/product/raed-silver/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/Raed-Silver-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/Raed-Silver-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:safwaan-lauture-oud",
@@ -6878,11 +7074,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:mayar",
@@ -6896,11 +7091,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:yara-tous",
@@ -6914,11 +7108,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:rouat-al-oud",
@@ -6932,11 +7125,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:qimmah-for-men",
@@ -6950,11 +7142,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:oud-mood-reminisence",
@@ -6968,11 +7159,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:oud-mood-elixir",
@@ -6981,16 +7171,15 @@
       "name": "Oud Mood Elixir",
       "price": "",
       "url": "https://lattafa.com/product/oud-mood-elixir/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/2-17.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/2-17.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "Elixir",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:musk-mood",
@@ -6999,16 +7188,15 @@
       "name": "Musk Mood",
       "price": "",
       "url": "https://lattafa.com/product/musk-mood/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/2-14.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/2-14.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:oud-lail-maleki",
@@ -7017,16 +7205,15 @@
       "name": "Oud Lail Maleki",
       "price": "",
       "url": "https://lattafa.com/product/oud-lail-maleki/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/2-16.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/2-16.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:fakhar-lattafa-men",
@@ -7035,16 +7222,15 @@
       "name": "Fakhar Lattafa Men",
       "price": "",
       "url": "https://lattafa.com/product/fakhar-lattafa-men/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/2-11.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/2-11.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:awraq-al-oud",
@@ -7053,16 +7239,15 @@
       "name": "Awraq Al Oud",
       "price": "",
       "url": "https://lattafa.com/product/awraq-al-oud/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/3-5.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/3-5.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:musk-so-poudree-thameen-collection",
@@ -7071,16 +7256,15 @@
       "name": "MUSK SO POUDREE – Thameen Collection",
       "price": "",
       "url": "https://lattafa.com/product/musk-so-poudree-thameen-collection/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/06/3-1.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/06/3-1.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:musk-wild-vanille-thameen-collection",
@@ -7094,11 +7278,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:raed-oud",
@@ -7112,11 +7295,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:eclaire",
@@ -7130,11 +7312,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ameer-al-arab",
@@ -7148,11 +7329,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ameerat-al-arab",
@@ -7166,11 +7346,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:andaleeb-flora",
@@ -7184,11 +7363,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:eternal-oud",
@@ -7197,16 +7375,15 @@
       "name": "Eternal Oud",
       "price": "",
       "url": "https://lattafa.com/product/eternal-oud/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/1-94.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/1-94.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:hala",
@@ -7215,16 +7392,15 @@
       "name": "Hala",
       "price": "",
       "url": "https://lattafa.com/product/hala/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/hala-1.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/hala-1.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:afaq",
@@ -7233,16 +7409,15 @@
       "name": "Afaq Gold",
       "price": "",
       "url": "https://lattafa.com/product/afaq/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/Afaq-Gold-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/Afaq-Gold-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:safwaan-lauture-musk",
@@ -7251,16 +7426,15 @@
       "name": "Safwaan Lauture Musk",
       "price": "",
       "url": "https://lattafa.com/product/safwaan-lauture-musk/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-73.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-73.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:bayaan",
@@ -7269,16 +7443,15 @@
       "name": "Bayaan",
       "price": "",
       "url": "https://lattafa.com/product/bayaan/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-109.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-109.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:badee-al-oud-honor-and-glory",
@@ -7287,16 +7460,15 @@
       "name": "Badee Al Oud Honor and Glory",
       "price": "",
       "url": "https://lattafa.com/product/badee-al-oud-honor-and-glory/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/3-120.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/3-120.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:haya",
@@ -7310,8 +7482,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Rabanne",
@@ -7325,8 +7497,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:maahir-legacy",
@@ -7340,8 +7511,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Parfums de Marly",
@@ -7355,8 +7526,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:ajwad",
@@ -7370,11 +7540,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:yara",
@@ -7388,11 +7557,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:maahir-black-edition",
@@ -7406,11 +7574,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:maahir",
@@ -7424,8 +7591,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Parfums de Marly",
@@ -7439,8 +7606,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:opulent-musk",
@@ -7449,16 +7615,15 @@
       "name": "Opulent Musk",
       "price": "",
       "url": "https://lattafa.com/product/opulent-musk/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-68.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-68.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:qaaed",
@@ -7467,16 +7632,15 @@
       "name": "Qaaed",
       "price": "",
       "url": "https://lattafa.com/product/qaaed/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-70.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-70.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:raed-luxe",
@@ -7485,16 +7649,15 @@
       "name": "Raed Luxe",
       "price": "",
       "url": "https://lattafa.com/product/raed-luxe/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/Raed-Luxe-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/Raed-Luxe-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:qimmah-for-women",
@@ -7503,16 +7666,15 @@
       "name": "Qimmah For Women",
       "price": "",
       "url": "https://lattafa.com/product/qimmah-for-women/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-104.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-104.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:qaed-al-fursan",
@@ -7521,16 +7683,15 @@
       "name": "Qaed Al Fursan",
       "price": "",
       "url": "https://lattafa.com/product/qaed-al-fursan/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-102.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-102.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:sheikh-al-shuyukh-luxe-edtion",
@@ -7539,16 +7700,15 @@
       "name": "Sheikh Al Shuyukh Luxe Edtion",
       "price": "",
       "url": "https://lattafa.com/product/sheikh-al-shuyukh-luxe-edtion/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/3-74.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/3-74.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ramz-lattafa-gold",
@@ -7562,11 +7722,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ramz-lattafa-silver",
@@ -7580,8 +7739,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Jean Paul Gaultier",
@@ -7617,8 +7776,7 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:velvet-oud",
@@ -7632,8 +7790,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Tom Ford",
@@ -7647,8 +7805,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:oud-mood",
@@ -7662,11 +7819,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:asad",
@@ -7680,8 +7836,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Dior",
@@ -7719,8 +7875,7 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:ejaazi",
@@ -7734,11 +7889,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:lail-maleki",
@@ -7747,16 +7901,15 @@
       "name": "Lail Maleki",
       "price": "",
       "url": "https://lattafa.com/product/lail-maleki/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-61.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-61.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:najdia",
@@ -7765,16 +7918,15 @@
       "name": "Najdia",
       "price": "",
       "url": "https://lattafa.com/product/najdia/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-67.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-67.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:badee-al-oud-oud-for-glory",
@@ -7783,16 +7935,15 @@
       "name": "Badee Al Oud – Oud for glory",
       "price": "",
       "url": "https://lattafa.com/product/badee-al-oud-oud-for-glory/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-96.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-96.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:musamam",
@@ -7801,16 +7952,15 @@
       "name": "Musamam",
       "price": "",
       "url": "https://lattafa.com/product/musamam/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/Musamam-bottle-1.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/Musamam-bottle-1.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:mohra",
@@ -7819,16 +7969,15 @@
       "name": "Mohra",
       "price": "",
       "url": "https://lattafa.com/product/mohra/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-66.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-66.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:khamrah",
@@ -7837,16 +7986,15 @@
       "name": "Khamrah",
       "price": "",
       "url": "https://lattafa.com/product/khamrah/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-60.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-60.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:suqaraat",
@@ -7860,11 +8008,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-noble-safeer",
@@ -7878,11 +8025,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-noble-wazeer",
@@ -7896,11 +8042,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-noble-ameer",
@@ -7914,11 +8059,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:confidential-private-gold",
@@ -7932,11 +8076,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:raghba",
@@ -7950,8 +8093,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Creed",
@@ -7965,8 +8108,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:velvet-rose",
@@ -7975,16 +8117,15 @@
       "name": "Velvet Rose",
       "price": "",
       "url": "https://lattafa.com/product/velvet-rose/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/3-77.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/3-77.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:qaed-al-fursan-unlimited",
@@ -7993,16 +8134,15 @@
       "name": "Qaed Al Fursan Unlimited",
       "price": "",
       "url": "https://lattafa.com/product/qaed-al-fursan-unlimited/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-103.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-103.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:hayaati-florence",
@@ -8011,13 +8151,13 @@
       "name": "Hayaati Florence",
       "price": "",
       "url": "https://lattafa.com/product/hayaati-florence/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-58.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-58.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Rabanne",
@@ -8031,8 +8171,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:badee-al-oud-sublime",
@@ -8041,16 +8180,15 @@
       "name": "Badee AL Oud Sublime",
       "price": "",
       "url": "https://lattafa.com/product/badee-al-oud-sublime/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-97.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-97.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:yara-moii",
@@ -8059,16 +8197,15 @@
       "name": "Yara Moi",
       "price": "",
       "url": "https://lattafa.com/product/yara-moii/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-114.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-114.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:sakeena",
@@ -8077,16 +8214,15 @@
       "name": "Sakeena",
       "price": "",
       "url": "https://lattafa.com/product/sakeena/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/Sakeena-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/Sakeena-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:emaan",
@@ -8100,11 +8236,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:hayaati-al-maleky",
@@ -8118,8 +8253,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Rabanne",
@@ -8133,8 +8268,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:ajayeb-dubai-portrait",
@@ -8148,11 +8282,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:jasoor",
@@ -8166,8 +8299,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Valentino",
@@ -8181,8 +8314,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:mayar-natural-intense",
@@ -8196,11 +8328,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:khamrah-qahwa",
@@ -8214,11 +8345,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:aura",
@@ -8227,13 +8357,13 @@
       "name": "Aura",
       "price": "",
       "url": "https://lattafa.com/product/aura/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/1-53.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/1-53.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Maison Francis Kurkdjian",
@@ -8248,8 +8378,7 @@
         "consensus": "Consensus fort",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:taweel",
@@ -8258,16 +8387,15 @@
       "name": "Ta’weel",
       "price": "",
       "url": "https://lattafa.com/product/taweel/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/3-117.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/3-117.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:teriaq",
@@ -8276,16 +8404,15 @@
       "name": "Teriaq",
       "price": "",
       "url": "https://lattafa.com/product/teriaq/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-75.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-75.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:musamam-white-intense",
@@ -8294,16 +8421,15 @@
       "name": "Musamam White Intense",
       "price": "",
       "url": "https://lattafa.com/product/musamam-white-intense/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/Musamam-White-Bottle-1.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/Musamam-White-Bottle-1.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:thouq",
@@ -8312,16 +8438,15 @@
       "name": "Thouq",
       "price": "",
       "url": "https://lattafa.com/product/thouq/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/Thouq-scaled.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/Thouq-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:leen",
@@ -8330,16 +8455,15 @@
       "name": "Leen",
       "price": "",
       "url": "https://lattafa.com/product/leen/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/05/2-87.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/2-87.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:la-collection-d-antiquites-1505",
@@ -8353,11 +8477,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:la-collection-d-antiquities-1910",
@@ -8371,11 +8494,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:la-affrican-drummer-20-ml",
@@ -8389,11 +8511,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:la-african-drummer",
@@ -8407,11 +8528,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:gharam",
@@ -8425,11 +8545,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:embrace",
@@ -8443,11 +8562,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:masa-20ml",
@@ -8456,16 +8574,15 @@
       "name": "Masa 20ML",
       "price": "",
       "url": "https://lattafa.com/product/masa-20ml/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Masa-20ML-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Masa-20ML-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:leen-20-ml",
@@ -8474,16 +8591,15 @@
       "name": "Leen 20 ML",
       "price": "",
       "url": "https://lattafa.com/product/leen-20-ml/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Leen-20-ML-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Leen-20-ML-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:la-collection-d-antiquites-1886-20ml",
@@ -8492,16 +8608,15 @@
       "name": "La Collection D’ Antiquitès 1886 20ML",
       "price": "",
       "url": "https://lattafa.com/product/la-collection-d-antiquites-1886-20ml/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/La-Collection-d-antiquites-1886-20ML-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/La-Collection-d-antiquites-1886-20ML-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:la-collection-d-antiquites-1505-20ml",
@@ -8510,16 +8625,15 @@
       "name": "La Collection D’ Antiquitès 1505 20ML",
       "price": "",
       "url": "https://lattafa.com/product/la-collection-d-antiquites-1505-20ml/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/La-Collection-d-antiquites-1505-20ML-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/La-Collection-d-antiquites-1505-20ML-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:la-collection-dantiquites-1910-20ml",
@@ -8528,16 +8642,15 @@
       "name": "La Collection d’antiquitès 1910 20ML",
       "price": "",
       "url": "https://lattafa.com/product/la-collection-dantiquites-1910-20ml/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/La-Collection-dantiquites-1910-20ML-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/La-Collection-dantiquites-1910-20ML-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:gharam-20ml",
@@ -8546,16 +8659,15 @@
       "name": "Gharam 20ML",
       "price": "",
       "url": "https://lattafa.com/product/gharam-20ml/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Gharam-20ML-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Gharam-20ML-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:affection-20ml",
@@ -8569,8 +8681,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Kayali",
@@ -8584,8 +8696,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:breeze-20ml",
@@ -8599,11 +8710,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:affection",
@@ -8617,8 +8727,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Kayali",
@@ -8632,8 +8742,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:raw-human",
@@ -8647,11 +8756,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:breeze",
@@ -8665,11 +8773,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:masa",
@@ -8683,11 +8790,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:vintage-radio",
@@ -8696,13 +8802,13 @@
       "name": "Vintage Radio",
       "price": "",
       "url": "https://lattafa.com/product/vintage-radio/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Vintage-Radio-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Vintage-Radio-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Initio",
@@ -8716,8 +8822,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:la-collection-dantiquity-1886",
@@ -8726,16 +8831,15 @@
       "name": "La Collection d’antiquity 1886",
       "price": "",
       "url": "https://lattafa.com/product/la-collection-dantiquity-1886/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/La-Collection-dantiquity-1886-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/La-Collection-dantiquity-1886-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ajwaa",
@@ -8744,16 +8848,15 @@
       "name": "Ajwaa",
       "price": "",
       "url": "https://lattafa.com/product/ajwaa/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/2-9.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-9.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ishq-al-shuyukh-silver",
@@ -8762,16 +8865,15 @@
       "name": "ISHQ AL SHUYUKH SILVER",
       "price": "",
       "url": "https://lattafa.com/product/ishq-al-shuyukh-silver/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/1-25.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/1-25.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:nebras",
@@ -8780,13 +8882,13 @@
       "name": "Nebras",
       "price": "",
       "url": "https://lattafa.com/product/nebras/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/2-62.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-62.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Billie Eilish",
@@ -8800,8 +8902,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:al-khas-winners-trophy-silver",
@@ -8810,16 +8911,15 @@
       "name": "Al Khas Winners Trophy Silver",
       "price": "",
       "url": "https://lattafa.com/product/al-khas-winners-trophy-silver/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Winners-Trophy-silver-Bottle-1-scaled.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Winners-Trophy-silver-Bottle-1-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-khas-winners-trophy-gold",
@@ -8833,11 +8933,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-areeq-gold",
@@ -8851,11 +8950,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:shaheen-silver",
@@ -8869,8 +8967,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Creed",
@@ -8884,8 +8982,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:shaheen-gold",
@@ -8899,11 +8996,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:awaan",
@@ -8917,11 +9013,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-areeq-silver",
@@ -8935,11 +9030,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ishq-al-shuyukh-gold",
@@ -8948,16 +9042,15 @@
       "name": "Ishq Al Shuyukh Gold",
       "price": "",
       "url": "https://lattafa.com/product/ishq-al-shuyukh-gold/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Ishq-Al-Shuyukh-Gold-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Ishq-Al-Shuyukh-Gold-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:maharjan-silver",
@@ -8966,16 +9059,15 @@
       "name": "Maharjan Silver",
       "price": "",
       "url": "https://lattafa.com/product/maharjan-silver/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Maharjan-silver-scaled.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Maharjan-silver-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:maharjan-gold",
@@ -8984,16 +9076,15 @@
       "name": "Maharjan Gold",
       "price": "",
       "url": "https://lattafa.com/product/maharjan-gold/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Maharjan-Gold-scaled.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Maharjan-Gold-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:wajood",
@@ -9002,16 +9093,15 @@
       "name": "Wajood",
       "price": "",
       "url": "https://lattafa.com/product/wajood/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Wajood-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Wajood-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-ameed-silver",
@@ -9020,16 +9110,15 @@
       "name": "Al Ameed Silver",
       "price": "",
       "url": "https://lattafa.com/product/al-ameed-silver/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Bottle-box-11-scaled.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Bottle-box-11-scaled.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:blue-sapphire",
@@ -9038,16 +9127,15 @@
       "name": "Blue Sapphire",
       "price": "",
       "url": "https://lattafa.com/product/blue-sapphire/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/2-19.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-19.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:royal-sapphire",
@@ -9061,11 +9149,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-qiam-silver",
@@ -9079,8 +9166,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Bvlgari",
@@ -9094,8 +9181,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:al-qiam-gold",
@@ -9109,8 +9195,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Louis Vuitton",
@@ -9124,8 +9210,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:ansaam-silver",
@@ -9139,11 +9224,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:tharwah-gold",
@@ -9157,11 +9241,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:antique-20-ml",
@@ -9175,11 +9258,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:classic-stone",
@@ -9188,16 +9270,15 @@
       "name": "Classic Stone",
       "price": "",
       "url": "https://lattafa.com/product/classic-stone/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Classic-Stone-bottle-1.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Classic-Stone-bottle-1.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:durrah",
@@ -9206,16 +9287,15 @@
       "name": "Durrah",
       "price": "",
       "url": "https://lattafa.com/product/durrah/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Durrah-Bottle-1.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Durrah-Bottle-1.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:hayaam",
@@ -9224,16 +9304,15 @@
       "name": "Hayaam",
       "price": "",
       "url": "https://lattafa.com/product/hayaam/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/2-22.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-22.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:vintage-castle",
@@ -9242,16 +9321,15 @@
       "name": "Vintage castle",
       "price": "",
       "url": "https://lattafa.com/product/vintage-castle/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Vintage-castle-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Vintage-castle-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:remas",
@@ -9260,16 +9338,15 @@
       "name": "Remas",
       "price": "",
       "url": "https://lattafa.com/product/remas/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Remas-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Remas-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:mughal-fort",
@@ -9278,16 +9355,15 @@
       "name": "Mughal Fort",
       "price": "",
       "url": "https://lattafa.com/product/mughal-fort/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/2-31.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-31.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ghinwa",
@@ -9301,11 +9377,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-dana",
@@ -9319,11 +9394,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:toleen",
@@ -9337,11 +9411,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:khalid",
@@ -9355,11 +9428,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:zikra",
@@ -9373,11 +9445,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:lujain",
@@ -9391,11 +9462,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-jawhara",
@@ -9404,16 +9474,15 @@
       "name": "Al Jawhara",
       "price": "",
       "url": "https://lattafa.com/product/al-jawhara/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/2-12.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-12.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:antique",
@@ -9422,16 +9491,15 @@
       "name": "Antique",
       "price": "",
       "url": "https://lattafa.com/product/antique/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/2-17.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-17.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:khanjar",
@@ -9440,16 +9508,15 @@
       "name": "Khanjar",
       "price": "",
       "url": "https://lattafa.com/product/khanjar/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/3-28.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/3-28.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:al-narjis",
@@ -9458,16 +9525,15 @@
       "name": "Al Narjis",
       "price": "",
       "url": "https://lattafa.com/product/al-narjis/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Al-Narjis-Bottle-1.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Al-Narjis-Bottle-1.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ameerat-al-arab-prive-rose",
@@ -9476,16 +9542,15 @@
       "name": "Ameerat Al Arab Prive Rose",
       "price": "",
       "url": "https://lattafa.com/product/ameerat-al-arab-prive-rose/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/2-14.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-14.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:pure-white",
@@ -9494,16 +9559,15 @@
       "name": "Pure White",
       "price": "",
       "url": "https://lattafa.com/product/pure-white/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/2-32.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-32.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:andaleeb",
@@ -9517,11 +9581,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:tharwah-silver",
@@ -9535,11 +9598,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ajayeb-dubai",
@@ -9553,11 +9615,10 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:ana-abiyedh-rouge",
@@ -9571,8 +9632,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Maison Francis Kurkdjian",
@@ -9607,8 +9668,7 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:hayaati-gold-elixir",
@@ -9622,8 +9682,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "Elixir",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Rabanne",
@@ -9637,8 +9697,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:hayaati",
@@ -9652,8 +9711,8 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Rabanne",
@@ -9667,8 +9726,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:fakhar-lattafa-extrait",
@@ -9677,13 +9735,13 @@
       "name": "Fakhar Lattafa Extrait",
       "price": "",
       "url": "https://lattafa.com/product/fakhar-lattafa-extrait/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Fakhar-Lattafa-Extrait-01.png",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Fakhar-Lattafa-Extrait-01.png",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Rabanne",
@@ -9697,8 +9755,7 @@
         "consensus": "Consensus modéré",
         "notes": null,
         "fragranticaVerified": false
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:ameer-al-oudh-intense",
@@ -9707,13 +9764,13 @@
       "name": "Ameer Al Oudh – Intense",
       "price": "",
       "url": "https://lattafa.com/product/ameer-al-oudh-intense/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Ameer-Al-Oudh-%E2%80%93-Intense-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Ameer-Al-Oudh-%E2%80%93-Intense-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
         "brand": "Maison Margiela Replica",
@@ -9746,8 +9803,7 @@
           "verifiedAt": "2026-08-22"
         },
         "fragranticaVerified": true
-      },
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      }
     },
     {
       "id": "lattafa:al-dur-al-maknoon-silver",
@@ -9756,16 +9812,15 @@
       "name": "Al Dur Al Maknoon Silver",
       "price": "",
       "url": "https://lattafa.com/product/al-dur-al-maknoon-silver/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/04/Al-Dur-Al-Maknoon-Silver-01.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Al-Dur-Al-Maknoon-Silver-01.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:24-carat-white-gold",
@@ -9774,16 +9829,15 @@
       "name": "24 Carat White Gold",
       "price": "",
       "url": "https://lattafa.com/product/24-carat-white-gold/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/03/2-2.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/03/2-2.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
+      "inspiration": null
     },
     {
       "id": "lattafa:24-carat-pure-gold",
@@ -9792,268 +9846,16 @@
       "name": "24 Carat Pure Gold",
       "price": "",
       "url": "https://lattafa.com/product/24-carat-pure-gold/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/02/2-1.jpg",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/02/2-1.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-05T14:52:28.255Z"
-    },
-    {
-      "id": "lattafa:victoria",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Victoria",
-      "price": "",
-      "url": "https://lattafa.com/product/victoria/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2025/02/Viktoria-Bottle-scaled.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:art-of-universe",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Art of Universe",
-      "price": "",
-      "url": "https://lattafa.com/product/art-of-universe/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2025/01/Art-of-Universe-Bottle-scaled.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:brioche-vanille",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Brioche Vanille",
-      "price": "",
-      "url": "https://lattafa.com/product/brioche-vanille/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2025/01/Brioche-Vanille-Bottle-scaled.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:lail-maleki-moroccan-blue",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Lail Maleki Moroccan Blue",
-      "price": "",
-      "url": "https://lattafa.com/product/lail-maleki-moroccan-blue/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/12/Lail-Malaki-Moroccan-Blue-Bottle-scaled.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:ansaam-gold",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Ansaam Gold",
-      "price": "",
-      "url": "https://lattafa.com/product/ansaam-gold/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/12/Bottle-scaled.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:asad-bourbon",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Asad Bourbon",
-      "price": "",
-      "url": "https://lattafa.com/product/asad-bourbon/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-d7e8c28/lattafa.com/wp-content/uploads/2024/12/Asad-Bourbon-Bottle-scaled.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": {
-        "brand": "Dior",
-        "name": "Sauvage Elixir",
-        "confidence": "forte",
-        "family": "Épicé, ambré",
-        "sources": [
-          "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-72821.html",
-          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/",
-          "https://www.reddit.com/r/DesiFragranceAddicts/comments/15iu3f7/lattafa_clones_list/",
-          "https://www.fragrantica.com/board/viewtopic.php?id=286972"
-        ],
-        "note": "Très souvent rapproché de Dior Sauvage Elixir. Les avis Fragrantica convergent sur la même famille olfactive, tout en signalant un Asad plus doux, vanillé et ambré : ce n'est pas un 1:1.",
-        "consensus": "Consensus fort",
-        "notes": {
-          "top": [
-            "Poivre noir",
-            "Tabac",
-            "Ananas"
-          ],
-          "heart": [
-            "Patchouli",
-            "Café",
-            "Iris"
-          ],
-          "base": [
-            "Vanille",
-            "Ambre",
-            "Bois sec",
-            "Benjoin",
-            "Labdanum"
-          ],
-          "notesSource": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-72821.html",
-          "verifiedWith": "Fragrantica",
-          "verifiedAt": "2026-08-22"
-        },
-        "fragranticaVerified": true
-      },
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:mashrabya",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Mashrabya",
-      "price": "",
-      "url": "https://lattafa.com/product/mashrabya/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAzMyAyNTYwIiB3aWR0aD0iMTAzMyIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:art-of-nature-ii",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Art of Nature II",
-      "price": "",
-      "url": "https://lattafa.com/product/art-of-nature-ii/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNDE3IiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNDE3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:mayar-cherry-intense",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Mayar Cherry Intense",
-      "price": "",
-      "url": "https://lattafa.com/product/mayar-cherry-intense/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTExNiAyNTYwIiB3aWR0aD0iMTExNiIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:afeef",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Afeef",
-      "price": "",
-      "url": "https://lattafa.com/product/afeef/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjA5NyAzMTIxIiB3aWR0aD0iMjA5NyIgaGVpZ2h0PSIzMTIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:lattafa-teriaq-intense",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Lattafa Teriaq Intense",
-      "price": "",
-      "url": "https://lattafa.com/product/lattafa-teriaq-intense/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAyIDE2MDAiIHdpZHRoPSI3MDIiIGhlaWdodD0iMTYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
-    },
-    {
-      "id": "lattafa:badee-al-oud-noble-blush",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Badee Al Oud Noble Blush",
-      "price": "",
-      "url": "https://lattafa.com/product/badee-al-oud-noble-blush/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTE0MiAxNzcyIiB3aWR0aD0iMTE0MiIgaGVpZ2h0PSIxNzcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": false,
-      "firstSeenAt": "2026-08-22T17:54:06.005Z",
-      "collaboration": null,
-      "inspiration": null,
-      "disappearedAt": "2026-10-12T15:38:32.232Z"
+      "inspiration": null
     }
-  ]
+  ],
+  "disappeared": []
 }
