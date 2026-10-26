@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-19T13:29:47.244Z",
+  "updatedAt": "2026-10-26T13:13:42.725Z",
   "stats": {
-    "total": 457,
+    "total": 452,
     "zara": 200,
-    "lattafa": 257,
+    "lattafa": 252,
     "men": 0,
     "women": 0,
     "unisex": 0,
-    "new": 197,
-    "disappeared": 0,
-    "matched": 72,
+    "new": 0,
+    "disappeared": 5,
+    "matched": 71,
     "highConfidence": 29,
     "officialCollaborations": 7,
     "zaraFragranticaReportedTotal": 1271,
@@ -6005,7 +6005,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6022,7 +6022,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6039,7 +6039,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6056,7 +6056,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6073,7 +6073,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6090,7 +6090,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -6143,7 +6143,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6160,7 +6160,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6177,7 +6177,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6194,7 +6194,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6211,7 +6211,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6228,7 +6228,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6245,7 +6245,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6262,7 +6262,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6279,7 +6279,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6296,7 +6296,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6313,7 +6313,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6330,7 +6330,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -6359,7 +6359,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6376,7 +6376,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6393,7 +6393,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6410,7 +6410,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -6439,7 +6439,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6456,7 +6456,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6473,7 +6473,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6490,7 +6490,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -6519,7 +6519,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6536,7 +6536,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6553,7 +6553,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -6582,7 +6582,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6599,7 +6599,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6616,7 +6616,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6633,7 +6633,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6650,7 +6650,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6667,7 +6667,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6684,7 +6684,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6701,7 +6701,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6718,7 +6718,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6735,7 +6735,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6752,7 +6752,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6769,7 +6769,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6786,7 +6786,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6803,7 +6803,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6820,7 +6820,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6837,7 +6837,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -6885,7 +6885,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6902,7 +6902,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -6955,7 +6955,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6972,7 +6972,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -6989,7 +6989,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7006,7 +7006,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7023,7 +7023,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7040,7 +7040,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7057,7 +7057,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7074,7 +7074,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7091,7 +7091,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7108,7 +7108,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7125,7 +7125,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7142,7 +7142,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7159,7 +7159,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7176,7 +7176,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "Elixir",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7193,7 +7193,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7210,7 +7210,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7227,7 +7227,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7244,7 +7244,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7261,7 +7261,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7278,7 +7278,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7295,7 +7295,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7312,7 +7312,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7329,7 +7329,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7346,24 +7346,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
-      "firstSeenAt": "2026-10-19T13:29:47.244Z",
-      "collaboration": null,
-      "inspiration": null
-    },
-    {
-      "id": "lattafa:andaleeb-flora",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Andaleeb Flora",
-      "price": "",
-      "url": "https://lattafa.com/product/andaleeb-flora/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7375,12 +7358,12 @@
       "name": "Eternal Oud",
       "price": "",
       "url": "https://lattafa.com/product/eternal-oud/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/05/1-94.jpg",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7397,7 +7380,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7414,7 +7397,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7431,7 +7414,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7448,7 +7431,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7465,7 +7448,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7482,7 +7465,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -7511,7 +7494,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -7540,7 +7523,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7557,7 +7540,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7574,7 +7557,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7591,7 +7574,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -7620,7 +7603,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7637,7 +7620,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7654,7 +7637,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7671,7 +7654,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7688,7 +7671,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7705,7 +7688,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7722,7 +7705,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7739,7 +7722,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -7790,7 +7773,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -7819,7 +7802,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7836,7 +7819,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -7889,7 +7872,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7906,7 +7889,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7923,7 +7906,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7940,7 +7923,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7957,7 +7940,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7974,7 +7957,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -7991,7 +7974,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8008,7 +7991,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8025,7 +8008,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8042,7 +8025,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8059,7 +8042,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8076,7 +8059,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8093,7 +8076,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8122,7 +8105,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8139,7 +8122,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8156,7 +8139,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8185,7 +8168,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8202,7 +8185,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8219,7 +8202,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8236,7 +8219,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8253,7 +8236,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8282,7 +8265,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8299,7 +8282,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8328,7 +8311,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8345,7 +8328,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8362,7 +8345,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8392,7 +8375,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8409,7 +8392,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8426,7 +8409,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8443,7 +8426,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8460,7 +8443,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8477,7 +8460,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8494,7 +8477,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8511,7 +8494,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8528,7 +8511,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8545,7 +8528,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8562,7 +8545,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8579,7 +8562,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8596,7 +8579,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8613,7 +8596,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8630,7 +8613,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8647,7 +8630,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8664,7 +8647,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8681,7 +8664,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8710,7 +8693,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8727,7 +8710,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8756,7 +8739,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8773,7 +8756,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8790,7 +8773,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8807,7 +8790,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8836,7 +8819,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8853,7 +8836,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8870,7 +8853,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8887,7 +8870,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8916,7 +8899,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8933,7 +8916,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8950,7 +8933,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -8967,7 +8950,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -8996,7 +8979,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9013,7 +8996,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9030,41 +9013,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
-      "firstSeenAt": "2026-10-19T13:29:47.244Z",
-      "collaboration": null,
-      "inspiration": null
-    },
-    {
-      "id": "lattafa:ishq-al-shuyukh-gold",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Ishq Al Shuyukh Gold",
-      "price": "",
-      "url": "https://lattafa.com/product/ishq-al-shuyukh-gold/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Ishq-Al-Shuyukh-Gold-01.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": true,
-      "firstSeenAt": "2026-10-19T13:29:47.244Z",
-      "collaboration": null,
-      "inspiration": null
-    },
-    {
-      "id": "lattafa:maharjan-silver",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Maharjan Silver",
-      "price": "",
-      "url": "https://lattafa.com/product/maharjan-silver/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Maharjan-silver-scaled.jpg",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9081,7 +9030,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9098,7 +9047,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9115,7 +9064,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9132,7 +9081,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9144,44 +9093,15 @@
       "name": "Royal Sapphire",
       "price": "",
       "url": "https://lattafa.com/product/royal-sapphire/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-54.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
-    },
-    {
-      "id": "lattafa:al-qiam-silver",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Al Qiam Silver",
-      "price": "",
-      "url": "https://lattafa.com/product/al-qiam-silver/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": true,
-      "firstSeenAt": "2026-10-19T13:29:47.244Z",
-      "collaboration": null,
-      "inspiration": {
-        "brand": "Bvlgari",
-        "name": "Tygar",
-        "confidence": "moyenne",
-        "family": "Agrumes, boisé",
-        "sources": [
-          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
-        ],
-        "note": "Rapprochement olfactif rapporté, non officiel.",
-        "consensus": "Consensus modéré",
-        "notes": null,
-        "fragranticaVerified": false
-      }
     },
     {
       "id": "lattafa:al-qiam-gold",
@@ -9190,12 +9110,12 @@
       "name": "Al Qiam Gold",
       "price": "",
       "url": "https://lattafa.com/product/al-qiam-gold/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/3-61.jpg",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -9213,23 +9133,6 @@
       }
     },
     {
-      "id": "lattafa:ansaam-silver",
-      "house": "Lattafa",
-      "gender": "À classer",
-      "name": "Ansaam Silver",
-      "price": "",
-      "url": "https://lattafa.com/product/ansaam-silver/",
-      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjMyNCAyNTYwIiB3aWR0aD0iMjMyNCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
-      "available": true,
-      "catalogSource": "Lattafa officiel",
-      "concentration": "",
-      "volume": "",
-      "isNew": true,
-      "firstSeenAt": "2026-10-19T13:29:47.244Z",
-      "collaboration": null,
-      "inspiration": null
-    },
-    {
       "id": "lattafa:tharwah-gold",
       "house": "Lattafa",
       "gender": "À classer",
@@ -9241,7 +9144,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9258,7 +9161,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "20 ml",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9270,12 +9173,12 @@
       "name": "Classic Stone",
       "price": "",
       "url": "https://lattafa.com/product/classic-stone/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Classic-Stone-bottle-1.jpg",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9287,12 +9190,12 @@
       "name": "Durrah",
       "price": "",
       "url": "https://lattafa.com/product/durrah/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Durrah-Bottle-1.jpg",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9304,12 +9207,12 @@
       "name": "Hayaam",
       "price": "",
       "url": "https://lattafa.com/product/hayaam/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/2-22.jpg",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9321,12 +9224,12 @@
       "name": "Vintage castle",
       "price": "",
       "url": "https://lattafa.com/product/vintage-castle/",
-      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Vintage-castle-01.jpg",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ4MCAyNDgwIiB3aWR0aD0iMjQ4MCIgaGVpZ2h0PSIyNDgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
       "available": true,
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9343,7 +9246,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9360,7 +9263,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9377,7 +9280,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9394,7 +9297,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9411,7 +9314,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9428,7 +9331,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9445,7 +9348,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9462,7 +9365,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9479,7 +9382,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9496,7 +9399,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9513,7 +9416,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9530,7 +9433,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9547,7 +9450,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9564,7 +9467,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9581,7 +9484,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9598,7 +9501,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9615,7 +9518,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9632,7 +9535,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -9682,7 +9585,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "Elixir",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -9711,7 +9614,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -9740,7 +9643,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -9769,7 +9672,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": {
@@ -9817,7 +9720,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9834,7 +9737,7 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
@@ -9851,11 +9754,114 @@
       "catalogSource": "Lattafa officiel",
       "concentration": "",
       "volume": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeenAt": "2026-10-19T13:29:47.244Z",
       "collaboration": null,
       "inspiration": null
     }
   ],
-  "disappeared": []
+  "disappeared": [
+    {
+      "id": "lattafa:andaleeb-flora",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Andaleeb Flora",
+      "price": "",
+      "url": "https://lattafa.com/product/andaleeb-flora/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null,
+      "disappearedAt": "2026-10-26T13:13:42.725Z"
+    },
+    {
+      "id": "lattafa:ishq-al-shuyukh-gold",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Ishq Al Shuyukh Gold",
+      "price": "",
+      "url": "https://lattafa.com/product/ishq-al-shuyukh-gold/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Ishq-Al-Shuyukh-Gold-01.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null,
+      "disappearedAt": "2026-10-26T13:13:42.725Z"
+    },
+    {
+      "id": "lattafa:maharjan-silver",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Maharjan Silver",
+      "price": "",
+      "url": "https://lattafa.com/product/maharjan-silver/",
+      "image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-e2a4c34/lattafa.com/wp-content/uploads/2024/04/Maharjan-silver-scaled.jpg",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null,
+      "disappearedAt": "2026-10-26T13:13:42.725Z"
+    },
+    {
+      "id": "lattafa:al-qiam-silver",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Al Qiam Silver",
+      "price": "",
+      "url": "https://lattafa.com/product/al-qiam-silver/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2MCAyNTYwIiB3aWR0aD0iMjU2MCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": {
+        "brand": "Bvlgari",
+        "name": "Tygar",
+        "confidence": "moyenne",
+        "family": "Agrumes, boisé",
+        "sources": [
+          "https://www.reddit.com/r/fragranceclones/comments/1mflctv/the_lattafa_clone_guide_i_went_through_almost/"
+        ],
+        "note": "Rapprochement olfactif rapporté, non officiel.",
+        "consensus": "Consensus modéré",
+        "notes": null,
+        "fragranticaVerified": false
+      },
+      "disappearedAt": "2026-10-26T13:13:42.725Z"
+    },
+    {
+      "id": "lattafa:ansaam-silver",
+      "house": "Lattafa",
+      "gender": "À classer",
+      "name": "Ansaam Silver",
+      "price": "",
+      "url": "https://lattafa.com/product/ansaam-silver/",
+      "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjMyNCAyNTYwIiB3aWR0aD0iMjMyNCIgaGVpZ2h0PSIyNTYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+      "available": true,
+      "catalogSource": "Lattafa officiel",
+      "concentration": "",
+      "volume": "",
+      "isNew": true,
+      "firstSeenAt": "2026-10-19T13:29:47.244Z",
+      "collaboration": null,
+      "inspiration": null,
+      "disappearedAt": "2026-10-26T13:13:42.725Z"
+    }
+  ]
 }
